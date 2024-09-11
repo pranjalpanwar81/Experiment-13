@@ -107,7 +107,7 @@ int main()
 ``` 
 #### Output  
 (A) <br>
-![](https://github.com/Shloka-Patel/Experiment---13/blob/main/Output_13A.png) 
+![Output_13A](https://github.com/user-attachments/assets/1b93d500-8fed-4270-b37d-44824582d4b0)
 
 (B) <br> 
 ![](https://github.com/Shloka-Patel/Experiment---13/blob/main/Output_13B.png) 
